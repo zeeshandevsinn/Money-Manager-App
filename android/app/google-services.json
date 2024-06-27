@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422331683908",
+    "project_id": "kamino-3ba0c",
+    "storage_bucket": "kamino-3ba0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422331683908:android:4b29ac1393565b17e7d811",
+        "android_client_info": {
+          "package_name": "com.example.kamino_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOdZItPPVs__loiLKK0bAwRS35TDUjjis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

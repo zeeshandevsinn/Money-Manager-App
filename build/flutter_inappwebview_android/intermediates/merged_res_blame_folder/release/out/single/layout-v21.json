@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

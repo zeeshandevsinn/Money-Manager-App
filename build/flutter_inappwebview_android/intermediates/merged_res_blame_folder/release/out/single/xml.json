@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\xml\\image_share_filepaths.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\bb66655ccfb15795eb9f0095e83ec444\\transformed\\browser-1.6.0\\res\\xml\\image_share_filepaths.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Bismillah\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_inappwebview_android-1.0.13\\android\\src\\main\\res\\xml\\provider_paths.xml"
+    }
+]

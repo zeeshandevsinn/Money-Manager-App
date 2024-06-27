@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\floating_action_mode.xml",
+        "source": "C:\\Users\\Bismillah\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_inappwebview_android-1.0.13\\android\\src\\main\\res\\layout\\floating_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\floating_action_mode_item.xml",
+        "source": "C:\\Users\\Bismillah\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_inappwebview_android-1.0.13\\android\\src\\main\\res\\layout\\floating_action_mode_item.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_cascading_menu_item_layout.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\bb66655ccfb15795eb9f0095e83ec444\\transformed\\browser-1.6.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\chrome_custom_tabs_layout.xml",
+        "source": "C:\\Users\\Bismillah\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_inappwebview_android-1.0.13\\android\\src\\main\\res\\layout\\chrome_custom_tabs_layout.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\activity_web_view.xml",
+        "source": "C:\\Users\\Bismillah\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_inappwebview_android-1.0.13\\android\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\bb66655ccfb15795eb9f0095e83ec444\\transformed\\browser-1.6.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    }
+]

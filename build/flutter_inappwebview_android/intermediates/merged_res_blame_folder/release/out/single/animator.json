@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\ae43be4610a94a82214fed96aa02e477\\transformed\\fragment-1.3.6\\res\\animator\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\ae43be4610a94a82214fed96aa02e477\\transformed\\fragment-1.3.6\\res\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\ae43be4610a94a82214fed96aa02e477\\transformed\\fragment-1.3.6\\res\\animator\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\ae43be4610a94a82214fed96aa02e477\\transformed\\fragment-1.3.6\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\ae43be4610a94a82214fed96aa02e477\\transformed\\fragment-1.3.6\\res\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\ae43be4610a94a82214fed96aa02e477\\transformed\\fragment-1.3.6\\res\\animator\\fragment_open_exit.xml"
+    }
+]

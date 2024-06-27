@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\c45060e345095bb778c189a6bf2ff419\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\c45060e345095bb778c189a6bf2ff419\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\c45060e345095bb778c189a6bf2ff419\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\c45060e345095bb778c189a6bf2ff419\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\39954eaf9a1c273e06d38bf71957418a\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    }
+]

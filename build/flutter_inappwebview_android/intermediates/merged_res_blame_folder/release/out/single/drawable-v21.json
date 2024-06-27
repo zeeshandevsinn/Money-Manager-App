@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\796b8098d8ba481b093de30e6d4a5d12\\transformed\\core-1.9.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Fiverr Client\\kamino_app\\build\\flutter_inappwebview_android\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Bismillah\\.gradle\\caches\\transforms-3\\dbbf00bd9b74909027b0e414a8aea98d\\transformed\\appcompat-1.6.1\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    }
+]
