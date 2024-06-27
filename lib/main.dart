@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: Kstrings.appName,
         theme: MyTheme.theme,
+        // ignore: body_might_complete_normally_nullable
         onGenerateRoute: (settings) {
           if (settings.name == '/verify-otp') {
             final args = settings.arguments as Map<String, String>;

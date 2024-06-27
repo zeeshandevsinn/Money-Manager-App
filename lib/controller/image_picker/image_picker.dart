@@ -20,6 +20,7 @@ class ProfileImagePicker {
       final ImagePicker _picker = ImagePicker();
       XFile? image = await _picker.pickImage(source: ImageSource.gallery);
       if (image != null) {
+        // ignore: unused_local_variable
         var byte = await image.readAsBytes();
       } else {
         print('no Image has been picked');

@@ -52,6 +52,7 @@ UpdateExpense(amount, userId) async {
 
   // Access the 'Expense' field value
   var expense = documentSnapshot.get('Expense');
+  // ignore: unused_local_variable
   var doc = FirebaseFirestore.instance
       .collection('users')
       .doc(userId)
@@ -85,6 +86,7 @@ Future<List<Map<String, dynamic>>> fetchUserExpenses(String userId) async {
 
 Future<void> fetchProfileData() async {
   try {
+    // ignore: unused_local_variable
     DocumentSnapshot doc = await FirebaseFirestore.instance
         .collection('users')
         .doc(FirebaseAuth.instance.currentUser?.uid)

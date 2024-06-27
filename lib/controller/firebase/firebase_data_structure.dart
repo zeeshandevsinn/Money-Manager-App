@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class DatabaseService {
+  // ignore: unused_field
   final FirebaseFirestore _db = FirebaseFirestore.instance;
   final String uid;
 

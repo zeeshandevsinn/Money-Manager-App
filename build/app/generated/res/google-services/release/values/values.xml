@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">422331683908</string>
-    <string name="google_api_key" translatable="false">AIzaSyCOdZItPPVs__loiLKK0bAwRS35TDUjjis</string>
-    <string name="google_app_id" translatable="false">1:422331683908:android:4b29ac1393565b17e7d811</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCOdZItPPVs__loiLKK0bAwRS35TDUjjis</string>
-    <string name="google_storage_bucket" translatable="false">kamino-3ba0c.appspot.com</string>
-    <string name="project_id" translatable="false">kamino-3ba0c</string>
-</resources>
